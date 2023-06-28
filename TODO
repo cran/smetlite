@@ -1,0 +1,3 @@
+use PIEM... example for test case,
+include some mult & origin
+ -> TA in F: taf <- 32+(9/5)*(ori$TA-273.15)
